@@ -16,7 +16,9 @@
 }
 
 .contact-image-section img {
+    width: 100%;
     max-width: 400px;
+    height: auto;
 }
 
 .contact-form {
@@ -76,6 +78,6 @@
     }
 
     .contact-image-section {
-        margin-top: 1.5rem;       /* add spacing between form and image */
+        margin-top: 1.5rem;
     }
 }
