@@ -1,0 +1,34 @@
+{
+  "statements": [
+    {
+      "name": "Has brothers",
+      "category": "true",
+      "id": 0
+    },
+    {
+      "name": "Has sisters",
+      "category": "false",
+      "id": 1
+    },
+    {
+      "name": "Pursuing Master's",
+      "category": "true",
+      "id": 2
+    },
+    {
+      "name": "Vegan",
+      "category": "false",
+      "id": 3
+    },
+    {
+      "name": "Gamer",
+      "category": "true",
+      "id": 4
+    },
+    {
+      "name": "Dancer",
+      "category": "false",
+      "id": 5
+    }
+  ]
+}
