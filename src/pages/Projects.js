@@ -8,7 +8,7 @@ class Projects extends React.Component {
                 <section className="banner">
                     <img
                         src={process.env.PUBLIC_URL + '/busters.png'}
-                        alt="Photo from Berkeley"
+                        alt="Berkeley Pacman"
                         className="banner-image"
                     />
                     <div className="banner-content">
@@ -21,9 +21,9 @@ class Projects extends React.Component {
                 <section className="features">
                     <div className="feature-card">
                         <h3>Highly Respected</h3>
-                        <p>Originally developed for UC Berkeley's CS 188, I completed projects that were credible as
-                            Berkeley is one of the top universities in computer science. These projects provided me
-                            with a strong foundation in artificial intelligence. </p>
+                        <p> I completed Berkeley, one of the top universities in computer science, projects that were
+                            originally developed for their CS 188. These projects provided me with a strong foundation
+                            in artificial intelligence. </p>
                     </div>
                     <div className="feature-card">
                         <h3> Key Topics Learned </h3>
