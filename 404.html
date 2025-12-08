@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page Not Found</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Page Not Found </title>
+    <link rel="stylesheet" href="./404style.css">
+    <script src="./404script.js" defer></script>
 </head>
 <body>
-    <div>
-        <h2>Oops! Page Not Found on GitHub Pages</h2>
-        <a href="/my-app/public">Back to Home</a>
-    </div>
+<h1> Page Not Found </h1>
+<a href="/my-app/public">Back to Home</a>
+<h2> Want to take a quiz? </h2>
+
+<!-- Draggable Elements -->
+<div id="statement-container" class="statement-container"></div>
+
+<!-- Error message -->
+<div id="error-message" class="error"></div>
+
+<!-- Drop Zones -->
+<div class="dropzones">
+    <div id="true-zone" class="dropzone">True</div>
+    <div id="false-zone" class="dropzone">False</div>
+</div>
 </body>
 </html>

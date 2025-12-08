@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.statement-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.draggable {
+    padding: 10px 15px;
+    border: 1px black dashed;
+    margin: 10px;
+    background-color: white;
+}
+
+.dropzones {
+    display: flex;
+    justify-content: center;
+}
+
+.dropzone {
+    border: 1px solid black;
+    margin: 10px;
+    width: 600px;
+    display: inline-block;
+    min-height: 150px;
+    padding: 10px;
+    background-color: white;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+    display: block;
+    margin-bottom: 15px;
+}
