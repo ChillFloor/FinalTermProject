@@ -1,0 +1,13 @@
+.resume-button {
+    padding: 1rem 2rem;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.resume-frame {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 1rem;
+}

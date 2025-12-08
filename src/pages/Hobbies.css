@@ -1,0 +1,33 @@
+.hobby img{
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+}
+
+.hobbies-page body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.hobbies-page main {
+    display: flex;
+    padding: 10px;
+}
+
+.sidebar {
+    width: 25%;
+    background: #f4f4f4;
+}
+
+.hobbies {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 2rem;
+    width: 75%;
+}
+
+.hobby {
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.product-image {
+    width: 200px;
+    height: 200px;
+}
+.product-detail-image {
+    width: 400px;
+    height: 400px;
+}
+.back-link {
+    display: block;
+}
+.product-detail,
+.product-detail-error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "FRU-001",
+    "name": "Apple",
+    "qty": 120,
+    "price": 2.99,
+    "description": "Red juicy apples.",
+    "image": "/gallery1.jpg"
+  },
+  {
+    "sku": "FRU-002",
+    "name": "Banana",
+    "qty": 200,
+    "price": 1.99,
+    "description": "Sweet ripe bananas.",
+    "image": "/gallery2.jpg"
+  },
+  {
+    "sku": "FRU-003",
+    "name": "Grape",
+    "qty": 80,
+    "price": 2.99,
+    "description": "Seedless purple grapes.",
+    "image": "/gallery3.jpg"
+  },
+  {
+    "sku": "FRU-004",
+    "name": "Orange",
+    "qty": 150,
+    "price": 3.99,
+    "description": "Juicy cheap oranges.",
+    "image": "/gallery4.jpg"
+  },
+  {
+    "sku": "FRU-005",
+    "name": "Mango",
+    "qty": 60,
+    "price": 4.99,
+    "description": "Tropical sweet mangoes.",
+    "image": "/gallery5.jpg"
+  },
+  {
+    "sku": "VEG-001",
+    "name": "Broccoli",
+    "qty": 90,
+    "price": 2.99,
+    "description": "Healthy vibrant broccoli.",
+    "image": "/gallery6.jpg"
+  },
+  {
+    "sku": "VEG-002",
+    "name": "Carrot",
+    "qty": 140,
+    "price": 1.99,
+    "description": "Crunchy carrots.",
+    "image": "/gallery7.jpg"
+  },
+  {
+    "sku": "VEG-003",
+    "name": "Potato",
+    "qty": 300,
+    "price": 18.99,
+    "description": "Cheap versatile potatoes.",
+    "image": "/gallery8.jpg"
+  }
+]
