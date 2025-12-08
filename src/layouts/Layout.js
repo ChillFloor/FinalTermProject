@@ -11,7 +11,7 @@ class Layout extends React.Component {
                 <Header />
                 <main className="main-content">
                     <Outlet />
-                </main>>
+                </main>
                 <Footer />
             </div>
         );
