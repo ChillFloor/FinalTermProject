@@ -42,9 +42,11 @@ function Contact() {
         <main className="contact">
             <section className="contact-form-section">
                 <h2>Contact Form</h2>
-                <ul>
-                    <li><a href="https://github.com/ChillFloor">GitHub</a></li>
-                </ul>
+                <nav>
+                    <ul>
+                        <li><a href="https://github.com/ChillFloor">GitHub</a></li>
+                    </ul>
+                </nav>
                 {!successMessage ? (
                     <form onSubmit={handleSubmit} className="contact-form">
                         <label>First Name:</label>
