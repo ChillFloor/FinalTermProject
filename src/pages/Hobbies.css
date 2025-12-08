@@ -5,12 +5,7 @@
     display: block;
 }
 
-.hobbies-page body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
-.hobbies-page main {
+.hobbies-page {
     display: flex;
     padding: 10px;
 }

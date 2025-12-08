@@ -5,7 +5,7 @@ function Resume() {
     const resumeUrl = process.env.PUBLIC_URL + "/Resume_2025.pdf";
 
     return (
-        <div className="resume-container">
+        <main className="resume-container">
             <section>
                 <h2>My Resume</h2>
                 <p>
@@ -27,7 +27,7 @@ function Resume() {
                     Download Resume
                 </a>
             </section>
-        </div>
+        </main>
     );
 }
 

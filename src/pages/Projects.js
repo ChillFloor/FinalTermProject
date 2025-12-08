@@ -4,7 +4,7 @@ import './Projects.css';
 class Projects extends React.Component {
     render(){
         return (
-            <div className="projects">
+            <main className="projects">
                 <section className="banner">
                     <img
                         src={process.env.PUBLIC_URL + '/busters.png'}
@@ -31,7 +31,7 @@ class Projects extends React.Component {
                          and more! </p>
                     </div>
                 </section>
-            </div>
+            </main>
         );
     }
 }

@@ -5,10 +5,10 @@ import inventoryData from "../data/inventory.json";
 class Gallery extends React.Component {
     render() {
         return (
-            <div className="gallery-page">
+            <main className="gallery-page">
                 <h2>Gallery</h2>
                 <InventoryList gallery={inventoryData} />
-            </div>
+            </main>
         );
     }
 }
