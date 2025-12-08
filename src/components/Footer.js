@@ -5,7 +5,7 @@ class Footer extends React.Component {
     render(){
         return (
             <footer className="footer">
-                <p>&copy; {new Date().getFullYear()} Grocery Store. </p>
+                <p>&copy; {new Date().getFullYear()} Li Website. </p>
                 <p>Created by: David Li</p>
                 <p>Logo: svgviewer, Images: freepik </p>
             </footer>

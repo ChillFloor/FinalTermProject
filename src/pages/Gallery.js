@@ -2,15 +2,15 @@ import React from "react";
 import InventoryList from "../components/InventoryList";
 import inventoryData from "../data/inventory.json";
 
-class Products extends React.Component {
+class Gallery extends React.Component {
     render() {
         return (
-            <div className="products-page">
-                <h2>Our Inventory</h2>
-                <InventoryList products={inventoryData} />
+            <div className="gallery-page">
+                <h2>Gallery</h2>
+                <InventoryList gallery={inventoryData} />
             </div>
         );
     }
 }
 
-export default Products;
+export default Gallery;

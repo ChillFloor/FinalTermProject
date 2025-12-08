@@ -36,17 +36,17 @@ function Hobbies() {
                     <section>
                         <h2>Hobby 3: Marketing</h2>
                         <p>
-                            I don’t enjoy advertisements, but I find it fascinating how marketers exploit
+                            I don't enjoy advertisements, but I find it fascinating how marketers exploit
                             weaknesses in human psychology. Tactics such as FOMO (Fear of Missing Out) to gamify
                             deals, or logical fallacies related to odds in gambling are interesting to me.
-                            You should at least be aware of marketing, so you don’t fall for it.
+                            You should at least be aware of marketing, so you don't fall for it.
                         </p>
                     </section>
 
                     <section>
                         <h2>Hobby 4: Jogging</h2>
                         <p>
-                            As a software developer who spends most of the week at a computer, I’ve come to
+                            As a software developer who spends most of the week at a computer, I've come to
                             appreciate the importance of moving my body. I enjoy jogging in particular because
                             it's a “go at your own pace” activity compared to team sports, and it allows me to
                             listen to podcasts or music while exercising.

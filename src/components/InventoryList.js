@@ -8,11 +8,11 @@ class InventoryList extends React.Component {
     }
 
     render() {
-        const { products } = this.props;
+        const { gallery } = this.props;
         return (
             <div className="inventory-list">
-                {products.map((product) => (
-                    <InventoryItem key={product.sku} product={product} />
+                {gallery.map((gallery) => (
+                    <InventoryItem key={gallery.sku} gallery={gallery} />
                 ))}
             </div>
         );

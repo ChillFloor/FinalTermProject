@@ -21,7 +21,7 @@ class Projects extends React.Component {
                 <section className="features">
                     <div className="feature-card">
                         <h3>Highly Respected</h3>
-                        <p>Originally developed for UC Berkeley’s CS 188, I completed projects that were credible as
+                        <p>Originally developed for UC Berkeley's CS 188, I completed projects that were credible as
                             Berkeley is one of the top universities in computer science. These projects provided me
                             with a strong foundation in artificial intelligence. </p>
                     </div>

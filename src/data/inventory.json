@@ -1,66 +1,50 @@
 [
   {
-    "sku": "FRU-001",
-    "name": "Apple",
-    "qty": 120,
-    "price": 2.99,
-    "description": "Red juicy apples.",
+    "sku": "img-001",
+    "name": "Chess and Mac",
+    "description": "I enjoy visiting my LGS (Local Game Store) for a good time. It's pretty cool that they allow you to bring in food, provided you clean up after yourself. My friends and I tend to work up quite an appetite with all the brainpower we use. You'd be surprised by the number of games you can play one‑handed.",
     "image": "/gallery1.jpg"
   },
   {
-    "sku": "FRU-002",
-    "name": "Banana",
-    "qty": 200,
-    "price": 1.99,
-    "description": "Sweet ripe bananas.",
+    "sku": "img-002",
+    "name": "Career Fair",
+    "description": "This image is of me at the career fair around 2020. I still have nightmares about job searching. I've heard it has only gotten worse and more competitive over time. Automation does no favors to either employers or employees. Interviews have lost a lot of its credibility and there is so much AI filtering/applying.",
     "image": "/gallery2.jpg"
   },
   {
-    "sku": "FRU-003",
-    "name": "Grape",
-    "qty": 80,
-    "price": 2.99,
-    "description": "Seedless purple grapes.",
+    "sku": "img-003",
+    "name": "Food",
+    "description": "My favorite food is usually some variant of pernil (a Spanish term for slow‑roasted pork). I usually get it from a restaurant since I'm not a great chef. It tends to be quite affordable compared to fish or steak. I've personally grown bored of chicken, as I cook it often due to its affordability and ease.",
     "image": "/gallery3.jpg"
   },
   {
-    "sku": "FRU-004",
-    "name": "Orange",
-    "qty": 150,
-    "price": 3.99,
-    "description": "Juicy cheap oranges.",
+    "sku": "img-004",
+    "name": "Card Packs",
+    "description": "This image shows a stack of Magic The Gathering packs. It is a very popular trading card game, widely considered the first TCG. I'm a fan of the game and enjoy buying packs to open, even though it's always better to buy specific cards on the secondary market. It's essentially gambling.",
     "image": "/gallery4.jpg"
   },
   {
-    "sku": "FRU-005",
-    "name": "Mango",
-    "qty": 60,
-    "price": 4.99,
-    "description": "Tropical sweet mangoes.",
+    "sku": "img-005",
+    "name": "Christmas",
+    "description": "Christmas is my favorite holiday. The atmosphere is wonderful, and my whole family gets together. The image shows me with my two brothers and my mom, hanging out in front of a huge Christmas tree in public. The gifts are nice, but as an adult you come to value time together more than money.",
     "image": "/gallery5.jpg"
   },
   {
-    "sku": "VEG-001",
-    "name": "Broccoli",
-    "qty": 90,
-    "price": 2.99,
-    "description": "Healthy vibrant broccoli.",
+    "sku": "img-006",
+    "name": "Museum",
+    "description": "This photo was taken while visiting a museum with my brothers. Spending time with family and friends is always worthwhile, even if you find museums boring. Frankly, I don't remember what the statue was, but I did know we had fun.",
     "image": "/gallery6.jpg"
   },
   {
-    "sku": "VEG-002",
-    "name": "Carrot",
-    "qty": 140,
-    "price": 1.99,
-    "description": "Crunchy carrots.",
+    "sku": "img-007",
+    "name": "Beach",
+    "description": "This image is from a beach trip with some friends and coworkers. I'm not very good at swimming, but I enjoy being around people, so I had a great time. Eventually, we gather together and sit in the shade for some light board gaming.",
     "image": "/gallery7.jpg"
   },
   {
-    "sku": "VEG-003",
-    "name": "Potato",
-    "qty": 300,
-    "price": 18.99,
-    "description": "Cheap versatile potatoes.",
+    "sku": "img-008",
+    "name": "Family",
+    "description": "This picture shows me with my two brothers. The one on the left is my younger brother, and the one on the right is my older brother. We were apart for a while so that's why this gathering was memorable.",
     "image": "/gallery8.jpg"
   }
-]
+  ]
