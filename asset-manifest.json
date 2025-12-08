@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FinalTermProject/static/css/main.f855e6bc.css",
+    "main.js": "/FinalTermProject/static/js/main.0819743b.js",
+    "static/js/453.117b0875.chunk.js": "/FinalTermProject/static/js/453.117b0875.chunk.js",
+    "static/media/logo.svg": "/FinalTermProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FinalTermProject/index.html",
+    "main.f855e6bc.css.map": "/FinalTermProject/static/css/main.f855e6bc.css.map",
+    "main.0819743b.js.map": "/FinalTermProject/static/js/main.0819743b.js.map",
+    "453.117b0875.chunk.js.map": "/FinalTermProject/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0819743b.js"
+  ]
+}
