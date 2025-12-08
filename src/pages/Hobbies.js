@@ -55,20 +55,28 @@ function Hobbies() {
 
             <section className="hobbies">
                 <div className="hobby">
-                    <img src={process.env.PUBLIC_URL + "/videogames.jpg"} alt="Video Games"/>
-                    <p>Video Games</p>
+                    <figure>
+                        <img src={process.env.PUBLIC_URL + "/videogames.jpg"} alt="Video Games"/>
+                        <figcaption>Video Games</figcaption>
+                    </figure>
                 </div>
                 <div className="hobby">
-                    <img src={process.env.PUBLIC_URL + "/boardgames.jpg"} alt="Board Gaming"/>
-                    <p>Board Gaming</p>
+                    <figure>
+                        <img src={process.env.PUBLIC_URL + "/boardgames.jpg"} alt="Board Gaming"/>
+                        <figcaption>Board Gaming</figcaption>
+                    </figure>
                 </div>
                 <div className="hobby">
-                    <img src={process.env.PUBLIC_URL + "/marketing.jpg"} alt="Marketing"/>
-                    <p>Marketing</p>
+                    <figure>
+                        <img src={process.env.PUBLIC_URL + "/marketing.jpg"} alt="Marketing"/>
+                        <figcaption>Marketing</figcaption>
+                    </figure>
                 </div>
                 <div className="hobby">
-                    <img src={process.env.PUBLIC_URL + "/jog.jpg"} alt="Jogging"/>
-                    <p>Jogging</p>
+                    <figure>
+                        <img src={process.env.PUBLIC_URL + "/jog.jpg"} alt="Jogging"/>
+                        <figcaption>Jogging</figcaption>
+                    </figure>
                 </div>
             </section>
         </main>

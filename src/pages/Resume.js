@@ -14,11 +14,7 @@ function Resume() {
             </section>
 
             <section>
-                <object
-                    data={resumeUrl}
-                    title="Resume"
-                    className="resume-frame"
-                >
+                <object data={resumeUrl} title="Resume" className="resume-frame">
                     <p>
                         Your browser does not support embedded PDFs.
                     </p>
