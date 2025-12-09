@@ -7,7 +7,7 @@ class Footer extends React.Component {
             <footer className="footer">
                 <p>&copy; {new Date().getFullYear()} Li Website. </p>
                 <p>Created by: David Li</p>
-                <p>Logo: svgviewer, Images: freepik </p>
+                <p>Non-Gallery Images: freepik </p>
             </footer>
         );
     }

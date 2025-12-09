@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import './Header.css';
-import Logo from './Logo';
 import {NavLink} from "react-router-dom";
 
 function Header() {
@@ -9,7 +8,7 @@ function Header() {
     return (
         <header className="header">
             <div className="logo-container">
-                <Logo />
+                <img src={process.env.PUBLIC_URL + "/computer.jpg"} alt="Logo" className="icon"/>
                 <h2> Li Website</h2>
             </div>
             <button className="menu-toggle" onClick={() => setIsMenuOpen(!isMenuOpen)}>
